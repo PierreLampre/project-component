@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Rentable",
+        "authors": "Tommy Flynn, Tawny Francis, Ajay Kiri, Justin Lampe",
+        "pic_link": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2015/08/1635-Rodman-Street.jpg",
+        "tech_used": "HTML, CSS, Javascript, jQuery, Bootstrap, MySQL, JawsDB, Heroku, Zillow API, Google API",
+        "blurb": "A full stack application designed to help people get started in the real estate market. Users can look up properties on Zillow and easily calculate ROI.  Must sign up to login and get started!",
+        "repo_link": "link here",
+        "deployed_link": "link here"
+        
+    },
+    {
+        "id": 2,
+        "name": "Only The Hits",
+        "authors": "Tawny Francis, Justin Lampe, Jack Shalenkova, Liam Wynne",
+        "pic_link": "https://www.googleplaymusicdesktopplayer.com/img/par1.jpg",
+        "tech_used": "HTML, CSS, Javascript, jQuery, Bootstrap, Spotify API, BandsInTown API",
+        "blurb": "A front end application that leverages Spotify API to create new playlists made up of new music.  Feed it artists you love to find similar artists, peruse their top tracks, and add them to a new playlist in your Spotify account.",
+        "repo_link": "link here",
+        "deployed_link": "link here"
+        
+    },
+    {
+        "id": 3,
+        "name": "CRUD Burger",
+        "authors": "Justin Lampe",
+        "pic_link": "https://www.rd.com/wp-content/uploads/2019/04/burger-2048x1365.jpg",
+        "tech_used": "HTML, CSS, Javascript, jQuery, node.js, express, MySQL",
+        "blurb": "Text here",
+        "repo_link": "link here",
+        "deployed_link": "link here"
+        
+    },
+    {
+        "id": 4,
+        "name": "Giphy API Search",
+        "authors": "Justin Lampe",
+        "pic_link": "https://www.92y.org/92streety/media/img/dance/adults/lg/disco-ball.jpg",
+        "tech_used": "HTML, CSS, Javascript, jQuery",
+        "blurb": "Text here",
+        "repo_link": "link here",
+        "deployed_link": "link here"
+        
+    },
+    {
+        "id": 5,
+        "name": "Crystal Collector",
+        "authors": "Justin Lampe",
+        "pic_link": "https://www.organicauthority.com/.image/t_share/MTU5MzMwMzg4NjI3MzY3NTIw/how-to-make-your-own-crystal-infused-elixir-water.jpg",
+        "tech_used": "HTML, CSS, Javascript, jQuery",
+        "blurb": "Text here",
+        "repo_link": "link here",
+        "deployed_link": "link here"
+        
+    },
+    {
+        "id": 6,
+        "name": "Bamazon",
+        "authors": "Justin Lampe",
+        "pic_link": "https://s3.envato.com/files/260789811/DSCF7765.JPG",
+        "tech_used": "node.js, express, console.table, MySQL",
+        "blurb": "Text here",
+        "repo_link": "link here",
+        "deployed_link": "link here"
+        
+    }
+]
