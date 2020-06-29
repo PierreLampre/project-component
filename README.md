@@ -1,1 +1,1 @@
-This is a reusable React component to map through a .json file and display the data on the front end.  I will use it in portfolio page, but feel free to start with it and use it for whatever is fitting.
+This is a reusable React component to map through a .json file and display the data on the front end.  I will use it in my portfolio page, but feel free to start with it and use it for whatever is fitting.
